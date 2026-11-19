@@ -4,11 +4,33 @@ body {
     
 }
 h1{
-    color:rgb(119, 56, 10)
+    color:oklab(89.38199999999999% 0.0109 0.01738)
 }
 #danilo {
     font-size:22px;
-    color:rgb(95, 70, 6);
+    color:oklab(89.38199999999999% 0.0109 0.01738)
     
     
+}
+.destaque{
+    
+    background-color: rgb(124, 69, 6);
+    color: white;
+}
+.size{
+    font-size: 25px;
+    background-color: rgb(153, 119, 8);
+    
+}
+.recompensa{
+    background-color: rgb(42, 105, 66);
+    color:white;
+}
+.muri{
+    color: bisque;
+    background-color: rgb(141, 107, 62);
+}
+.whats{
+    background-color: rgb(5, 184, 65);
+    font-size: 30px;
 }
