@@ -3,11 +3,9 @@ body {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2Yt5010iq7z9p-_qM1IOIC43EbhBzIYKpyRoD6CNVA&s=10);
     
 }
-h1{
-    color:oklab(89.38199999999999% 0.0109 0.01738)
-}
+
+
 #danilo {
-    font-size:22px;
     color:oklab(89.38199999999999% 0.0109 0.01738)
     
     
@@ -18,7 +16,6 @@ h1{
     color: white;
 }
 .size{
-    font-size: 25px;
     background-color: rgb(153, 119, 8);
     
 }
@@ -34,3 +31,5 @@ h1{
     background-color: rgb(5, 184, 65);
     font-size: 30px;
 }
+
+    
