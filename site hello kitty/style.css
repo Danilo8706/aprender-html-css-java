@@ -30,8 +30,25 @@ body{
     
     height: 55px;
 }
+.titulo3 {
+    border-radius: 20px;
+    width: 250px;
+    margin: 10px;
+    
+    height: 55px;
+}
 .conteudo{
     display: flex;
-    
     gap: 24px;
+}
+.conteudo2{
+    height: auto;
+    width: 100%;
+ 
+    gap: 12px;
+}
+.grade{
+    display: grid;
+    
+  grid-template-columns: repeat(4, 300px);
 }
