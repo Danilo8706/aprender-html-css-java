@@ -41,14 +41,14 @@ body{
     display: flex;
     gap: 24px;
 }
-.conteudo2{
+.conteudo2 img{
     height: auto;
-    width: 100%;
+    width: 100% ;
  
-    gap: 12px;
+    
 }
 .grade{
     display: grid;
     
-  grid-template-columns: repeat(4, 300px);
+  grid-template-columns: repeat(4, 150px);
 }
