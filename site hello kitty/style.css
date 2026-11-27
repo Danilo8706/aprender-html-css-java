@@ -45,14 +45,14 @@ body{
 }
 .conteudo2 img{
     height: auto;
-    width: 100px;
+    width: 100% ;
  
-    gap: 12px;
+    
 }
 .grade{
     display: grid;
     
-  grid-template-columns: repeat(4, 100px);
+  grid-template-columns: repeat(4, 150px);
 }
 .titulo3 {
     border-radius: 20px;
